@@ -14,7 +14,7 @@ Na física, uma colisão elástica é um encontro entre dois corpos caracterizad
 
 Neste caso, após a colisão, a velocidade final das partículas pode ser calculada através da seguinte fórmula:
 <p align="center">
-  <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14d5feb68844edae9e31c9cb4a2197ee922e409c" width="375" height="95" />
+  <img src="https://github.com/fallgatter/simulador-de-colisoes/blob/main/formula.png" width="375" height="95" />
 </p>
 (Fonte: Wikipédia)
 Onde v representa a velocidade inicial da partícula, v' representa a velocidade final, x é a posição do centro e os símbolos < e > representam um produto interno de dois vetores. Como neste simulador todas as partículas são iguais, o termo envolvendo as massas pode ser ignorado.
