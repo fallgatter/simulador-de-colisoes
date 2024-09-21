@@ -16,7 +16,7 @@ Neste caso, após a colisão, a velocidade final das partículas pode ser calcul
 <p align="center">
   <img src="https://github.com/fallgatter/simulador-de-colisoes/blob/main/formula.png" width="386" height="100" />
 </p>
-Onde v representa a velocidade inicial da partícula, v' representa a velocidade final, x é a posição do centro e os símbolos < e > representam um produto interno de dois vetores. Como neste simulador todas as partículas são iguais, o termo envolvendo as massas pode ser ignorado.
+Onde v representa a velocidade inicial, v' representa a velocidade final, x é a posição do centro da partícula e os símbolos < e > representam um produto interno de dois vetores. Como neste simulador todas as partículas são iguais, o termo envolvendo as massas pode ser ignorado.
 
 ## Contato
 E-mail: fallgatter@alunos.utfpr.edu.br
