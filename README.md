@@ -18,11 +18,11 @@ Onde v representa a velocidade inicial, v' representa a velocidade final, x é a
 
 ## Capturas de Tela
 <p align="center">
-  <img src="https://github.com/fallgatter/simulador-de-colisoes/blob/main/Imagens/menu.png" width="318" height="100" />
+  <img src="https://github.com/fallgatter/simulador-de-colisoes/blob/main/Imagens/menu.png" width="546" height="300" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/fallgatter/simulador-de-colisoes/blob/main/Imagens/running.png" width="318" height="100" />
+  <img src="https://github.com/fallgatter/simulador-de-colisoes/blob/main/Imagens/running.png" width="546" height="300" />
 </p>
 
 ## Contato
