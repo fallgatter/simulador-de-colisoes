@@ -19,7 +19,7 @@ typing_raio=False
 error=False
 
 pygame.init()
-icon=str(Path(__file__).resolve().parent)+'\\icon.png'
+icon=str(Path(__file__).resolve().parent)+'\\Imagens\\icon.png'
 icon=pygame.image.load(icon)
 pygame.display.set_icon(icon)
 screen=pygame.display.set_mode((WIDTH, HEIGHT))
