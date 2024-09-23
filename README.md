@@ -1,5 +1,5 @@
 # Simulador 2D de Colisões Elásticas
-Este simulador de colisões elásticas foi originalmente desenvolvido como uma Atividade Prática Supervisionada (APS) da disciplina de Física 1, ministrada no primeiro período do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná. Posteriormente, um menu inicial foi implementado. O código foi escrito em Python, utilizando principalmente as bibliotecas Pygame e NumPy.
+Este simulador de colisões elásticas foi originalmente desenvolvido como uma Atividade Prática Supervisionada (APS) da disciplina de Física 1, ministrada no primeiro período do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná (UTFPR). Posteriormente, um menu inicial foi implementado. O código foi escrito em Python, utilizando principalmente as bibliotecas Pygame e NumPy.
 
 ## Instalação & Uso
 
