@@ -27,11 +27,11 @@ pygame.display.set_caption('Simulador de Colisões')
 title_font=pygame.font.SysFont('freesansbold', 75)
 text_font=pygame.font.SysFont('freesansbold', 58)
 title='Simulador de Colisões Elásticas'
-nparticulas_text='Número de particulas:'
-raio_text='Raio das particulas:'
+nparticulas_text='Número de partículas:'
+raio_text='Raio das partículas:'
 description_1='Preencha ambos os campos e'
 description_2='pressione Enter'
-error_text='Diminua o raio e/ou o número de particulas'
+error_text='Diminua o raio e/ou o número de partículas'
 nparticulas_rect=pygame.Rect(905,250,115,60)
 raio_rect=pygame.Rect(870,330,115,60)
 typing_color=pygame.Color('gray30')
